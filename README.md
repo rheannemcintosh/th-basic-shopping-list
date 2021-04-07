@@ -13,6 +13,8 @@ The inital work was completed by following along the with the Treehouse tutorial
 
 :white_check_mark: Update README
 
+:white_check_mark: Update Repository
+
 ## Notes
 - **Language:** Python
 - **Author:** Rheanne McIntosh
