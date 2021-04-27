@@ -5,8 +5,6 @@ The Basic Shopping List Application is a basic Python command line application w
 
 ## Inital Work
 The inital work was completed by following along the with the Treehouse tutorial, with some small edits along the way. Then a separate pull request was created to ensure the code followed PEP8 Standards.
-- [#1 - Add Items to Shopping List](https://github.com/rheannemcintosh/treehouse-python-basic-shopping-list/pull/1)
-- [#2 - Update shopping_list.py to PEP8 Standards](https://github.com/rheannemcintosh/treehouse-python-basic-shopping-list/pull/2)
 
 ## Next Steps
 :white_check_mark: Format Code
@@ -14,6 +12,10 @@ The inital work was completed by following along the with the Treehouse tutorial
 :white_check_mark: Update README
 
 :white_check_mark: Update Repository
+
+:black_square_button: Post on Instagram
+
+:white_check_mark: Update Wiki
 
 ## Notes
 - **Language:** Python
